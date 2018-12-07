@@ -1,9 +1,9 @@
 #include "stdafx.h"
 #include "CppUnitTest.h"
-#include "D:\Programming\listat\primegenerator.h"
-#include "D:\Programming\listat\primegenerator.cpp"
-#include "D:\Programming\listat\xmlparser.h"
-#include "D:\Programming\listat\xmlparser.cpp"
+#include "primegenerator.h"
+#include "primegenerator.cpp"
+#include "xmlparser.h"
+#include "xmlparser.cpp"
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
